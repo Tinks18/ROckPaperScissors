@@ -1,16 +1,22 @@
 const computerChoiceDisplay = document.getElementById('computer-choice');
-const userChoiceDisplay = document.getElementById('user-choice');
+const playerChoiceDisplay = document.getElementById('player-choice');
 const resultDisplay = document.getElementById('result');
+const scoreDisplay = document.getElementById('score');
 const possibleChoices = document.querySelectorAll('button');
-let userChoice;
+let playerChoice;
 let computerChoice;
 let result;
+let userScore = 10;
+let computerScore = 0;
 
 possibleChoices.forEach(possibleChoice => possibleChoice.addEventListener('click', (e) => {
-  userChoice = e.target.id;
-  userChoiceDisplay.innerHTML = userChoice;
+  playerChoice = e.target.id;
+  playerChoiceDisplay.innerHTML = playerChoice;
   generateComputerChoice();
   getResult();
+  getScore();
+
+  document.getElementById('clear').addEventListener('click',clear);
 }));
 
 function generateComputerChoice() {
@@ -29,26 +35,66 @@ function generateComputerChoice() {
 }
 
 function getResult() {
-  if (computerChoice === userChoice) {
-    result = 'Its a Draw!';
+  if (computerChoice === playerChoice) {
+    result = 'Draw!';
+    userScore = 100; 
+    computerScore = 100;
+    
+
   }
-  if (computerChoice === 'rock' && userChoice === "paper") {
+  if (computerChoice === 'rock' && playerChoice === "paper") {
     result = 'You Win!';
+    userScore = 100; 
+    computerScore = 0;
+    
+
   }
-  if (computerChoice === 'rock' && userChoice === "scissors") {
-    result = 'You Lost!';
-  }
-  if (computerChoice === 'paper' && userChoice === "scissors") {
-    result = 'You Win!';
-  }
-  if (computerChoice === 'paper' && userChoice === "rock") {
-    result = 'You Lose!'
-  }
-  if (computerChoice === 'scissors' && userChoice === "rock") {
-    result = 'You Win!';
-  }
-  if (computerChoice === 'scissors' && userChoice === "paper") {
+  if (computerChoice === 'rock' && playerChoice === "scissors") {
     result = 'You Lose!';
+     userScore = 0;
+     computerScore = 100;
+  }
+  if (computerChoice === 'paper' && playerChoice === "scissors") {
+    result = 'You Win!';
+    userScore = 100; 
+    computerScore = 0;
+  }
+  if (computerChoice === 'paper' && playerChoice === "rock") {
+    result = 'You Lose!';
+     userScore = 0;
+     computerScore = 100;
+  }
+  if (computerChoice === 'scissors' && playerChoice === "rock") {
+    result = 'You Win!';
+    userScore = 100; 
+    computerScore = 0;
+  }
+  if (computerChoice === 'scissors' && playerChoice === "paper") {
+    result = 'You Lose!';
+     userScore = 0;
+     computerScore = 100;
   }
   resultDisplay.innerHTML = result;
+}
+
+function getScore(){
+  // document.getElementById('score').addEventListener('click',getResult);
+  if (userScore > computerScore){
+    scoreDisplay.innerHTML = 1000;
+  }
+  if (userScore === computerScore){
+    scoreDisplay.innerHTML = 500;
+  }
+  if (userScore < computerScore){
+    scoreDisplay.innerHTML = 0;
+  }
+      
+}
+function clear(){
+  document.getElementById('computer-choice').innerHTML = "";
+  document.getElementById('user-choice').innerHTML = "";
+  document.getElementById('result').innerHTML = "";
+  document.getElementById('score').innerHTML = "";
+  
+  
 }

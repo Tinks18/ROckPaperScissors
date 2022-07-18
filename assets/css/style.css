@@ -1,5 +1,9 @@
 body{
-    background-color: rgb(205, 255, 230);
+    background-color: rgb(60, 147, 103);
+}
+
+h2 {
+  text-transform: capitalize;
 }
 
 .container {
