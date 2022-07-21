@@ -78,7 +78,7 @@ function getResult() {
 }
 
 function getScore(){
-  // document.getElementById('score').addEventListener('click',getResult);
+  
   if (userScore > computerScore){
     scoreDisplay.innerHTML = 1000;
   }

@@ -1,6 +1,6 @@
 function clear(){
     document.getElementById('computer-choice').innerHTML = "";
-    document.getElementById('user-choice').innerHTML = "";
+    document.getElementById('player-choice').innerHTML = "";
     document.getElementById('result').innerHTML = "";
 }
 
