@@ -17,38 +17,5 @@ h3 {
     margin-bottom: 2.5rem;
   }
 
-  .links {
-    text-align: center;
-}
-
-.links>li {
-    display: inline;
-}
-
-.links i {
-    font-size: 150%;
-    margin: 1%;
-    padding: 1%;
-    color: #fff;
-
-}
-  /* .btn-hero {
-    font-family: var(--ff-primary);
-    text-transform: uppercase;
-    background: grey;
-    color: var(--clr-black);
-    letter-spacing: var(--spacing);
-    display: inline-block;
-    font-weight: 700;
-    transition: var(--transition);
-    border: 2px solid var(--clr-black);
-    cursor: pointer;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
-    border-radius: var(--radius);
-    font-size: 1rem;
-    padding: 0.75rem 1.25rem;
-  }
-  .btn-hero:hover {
-    color: var(--clr-white);
-    background: var(--clr-black);
-  } */
+  
+  

@@ -89,9 +89,10 @@ The sections are:
 
 - __Navigation Bar__
 
-  - Featured on all three sections, the fully responsive navigation bar includes the title of the game
+  - Featured on all three sections, the fully responsive navigation bar includes the title of the game.
+  - The Navigation bar contains a reset button that rests the game.
   - The Navigation bar was fixed to the top so that the user can see the name of the game website.
-     ![Nav Bar](https://github.com/Tinks18/ROckPaperScissors/blob/main/assets/images/Heading-min.jpg)
+     ![Nav Bar](https://github.com/Tinks18/ROckPaperScissors/blob/main/assets/images/navbar-min.png)
 
 - __The landing page image__
 
@@ -135,13 +136,6 @@ The sections are:
 
 
 
- -  __The Footer__ 
-
-    - The footer section includes links to the relevant social media sites for the author upcoming websites. 
-    - The footer is valuable to the user as it encourages them to keep connected via social media.
-
-    ![Footer](https://github.com/Tinks18/Yoga-project/blob/main/docs/sconnections_footer.jpg)
-
 
 
 
@@ -159,8 +153,8 @@ Potential features to include:
 
 Here is a list of features of the website that were tested and the tests and list of the tests that were performed after which it was concluded that the site legitimately  works well. 
 
-- The  Navigation bar has four links that when clicked take you different sections of the website. 
-- Buttons which when clicked gives a an intercative response as the user choice is dsiplayed.
+- The  Navigation bar has a Reset button that when clicked resets different sections of the website. 
+- Buttons which when clicked gives a an interactive response as the user choice is dsiplayed.
 - The Computer choice section makes random choices and displays them everytime on a high contrast display for ease of reading.
 - The game is responsive on different tablets and mobile screens.
 - The pictures are responsive as the pictures resize on mobile screens and tablet screens.
@@ -173,22 +167,19 @@ Over all the testing looks like all the features are working as intended and are
 
 The interesting bugs or problems discovered during testing, some of which have not been addressed yet.
 - Bug:
-  The individual pages opened on a new page beacuse I understood that as requied for all the links and not just the ones in the footer.
+  The reset button was eating up space in the game making the page look unsymmetrical .
 - Fix:
-  removed the "_blank" for the navigation links in the header.
-- Bug:
-  when I used the a:hover it was true for all the links instead of just the header links
--  Fix:
-   added inheritance to the navigation links in the header nav >li:hover instead of writing just a:hover 
+  added the rest button for bettr UI in  the navigation bar in  the header.
+
 -  Bug:
-   the footer section was not immideately after the background 
-   changed the height of the image class of the first section containg all the code in contact.html
+   the footer section was not looking good in the game 
+   reoved the footer 
 -  Bug:
-   All the website work was lost when gitpod auto reverted to the last commit and sent the website week back as the coomits were present and my end but were not git pushed
--  Fix: there was no fix to this I had to redo all the work and make a lot of website changes again and hence a lot features went missing as I      was left with little time on my hands.
--  Bug : 
-   the git pod was auto changing the styles implemented .
--  Fix : Went back to the last commited style.css and copied to te current file to undo the changes and make the file work as before 
+   used a header instead of nav bar 
+-  Fix: added a navbar witha button instead
+-  Bug:
+    The dom was displaying choices in lower case 
+-  Fix: added a Capitalise style element to the h3 
  
 
 
