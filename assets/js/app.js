@@ -16,7 +16,7 @@ possibleChoices.forEach(possibleChoice => possibleChoice.addEventListener('click
   getResult();
   getScore();
 
-  document.getElementById('clear').addEventListener('click',clear);
+  // document.getElementById('clear').addEventListener('click',clear);
 }));
 
 function generateComputerChoice() {
@@ -92,7 +92,7 @@ function getScore(){
 }
 function clear(){
   document.getElementById('computer-choice').innerHTML = "";
-  document.getElementById('user-choice').innerHTML = "";
+  document.getElementById('player-choice').innerHTML = "";
   document.getElementById('result').innerHTML = "";
   document.getElementById('score').innerHTML = "";
   
