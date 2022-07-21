@@ -195,6 +195,12 @@ The interesting bugs or problems discovered during testing, some of which have n
 
     the gitpod bug could not be dealt with but ended up wasting a lot of my time which in turn resulted in alot of things that coud not be added to the project. I wish they figure it  out. The commits that are done locally should not belost just because you close your workspace. 
 
+    I lost all my work again in this project as i had created an alternate repository where I was going to add wetahr app to the aplication but Since the laptop crashed I lost all work saved on my dektop which was not pushed.
+
+    In order to get trid of the virus or bug I had to reinstall my OS.
+
+    
+
 ## Deployment
 
 
@@ -203,7 +209,7 @@ The interesting bugs or problems discovered during testing, some of which have n
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://tinks18.github.io/Yoga-project/ 
+The live link can be found here - https://8000-tinks18-rockpaperscisso-1cwwltxug61.ws-eu54.gitpod.io/
 
 ## Credits 
 
@@ -228,8 +234,6 @@ I used code from the following resources:
 - [Read more button](https://www.w3schools.com/howto/howto_js_read_more.asp)
     - This code was used but the JS function was heavily edited with the help of my tutor Guido.
 
-- [Sign up form](https://wwww.w3schools.com)
-    - I used this code as the basis of my form but changed the styling.
 
 - [Image grid](https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/)
 
@@ -241,7 +245,7 @@ I used code from the following resources:
  
 ### Content 
 
-- Pictures taken from <a href="https://www.vecteezy.com/free-vector/rock-paper-scissors">Rock Paper Scissors Vectors by Vecteezy</a>
+
 - Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-rock-paper-scissors-game)
 - The icons in the  header footer were taken from [Font Awesome](https://fontawesome.com/)
 - The styling was taken from Bootstrap library
@@ -251,6 +255,7 @@ I used code from the following resources:
 ### Media
 
 - The photos used on the home  page are from the open source site free to use vector images.
+- Pictures taken from <a href="https://www.vecteezy.com/free-vector/rock-paper-scissors">Rock Paper Scissors Vectors by Vecteezy</a>
 
 
 
@@ -311,7 +316,8 @@ I have used several technologies that have enabled this design to work:
 
 ## Acknowledgements
 
-I would like to thank my course mentor Guido Cecilio for his support and guidance throughout the course of the project and my cohort guide Kenan support & feedback.
+I would like to thank my course mentor Guido Cecilio for his support and guidance throughout the course of the project and my cohort guide Kenan 
+for valuable feedback & support.
 
 ---
 
