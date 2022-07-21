@@ -191,6 +191,8 @@ The interesting bugs or problems discovered during testing, some of which have n
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-tinks18-rockpaperscisso-1cwwltxug61.ws-eu54.gitpod.io%2F)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator)
+- JS 
+- No errors were returned only warnings about the javascript version when passing through the official [(Jshint) validator](https://jshint.com/)
 
 ### Unfixed Bugs
 
