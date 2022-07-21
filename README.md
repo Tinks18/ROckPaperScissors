@@ -14,7 +14,7 @@
 4. Build a fanbase of users to make future interactive games, thus furthering the reach of the  author.
 
 
-  ![Responsice Mockup](https://tinks18-rockpaperscisso-1cwwltxug61.ws-eu54.gitpod.io/)
+  ![Responsice Mockup](https://github.com/Tinks18/ROckPaperScissors/blob/main/assets/images/Website-mockup-min.jpg)
 
 ## UX
 ---
@@ -91,14 +91,14 @@ The sections are:
 
   - Featured on all three sections, the fully responsive navigation bar includes the title of the game
   - The Navigation bar was fixed to the top so that the user can see the name of the game website.
-     ![Nav Bar](https://github.com/Tinks18/Yoga-project/blob/main/docs/sconnections_navigation-bar.jpg)
+     ![Nav Bar](https://github.com/Tinks18/ROckPaperScissors/blob/main/assets/images/Heading-min.jpg)
 
 - __The landing page image__
 
   - The landing includes  photographs with text overlay to allow the user to see exactly which choice to make. 
   - This section introduces the user to Rock Paper scissors game with an eye catching webpage to grab their attention
 
-    ![Landing Page](https://github.com/Tinks18/Yoga-project/blob/main/docs/sconnections_landing-page.jpg)
+    ![Landing Page](https://github.com/Tinks18/ROckPaperScissors/blob/main/assets/images/landingpage.png)
 
 
 - __Pictures Section__
@@ -110,7 +110,7 @@ The sections are:
 
   
 
-   ![Gallery](https://github.com/Tinks18/Yoga-project/blob/main/docs/gallery.jpg)
+   ![Gallery]()
 
 - __Click the button section__
 
@@ -131,7 +131,7 @@ The sections are:
   - The Score section gives the user scores based the game out come.
   - 1000 points for a win ,500 for a Draw, and 0 points for Loss.
   
-    ![Contact Us](https://github.com/Tinks18/Yoga-project/blob/main/docs/contact-us.jpg)
+    ![Information](https://github.com/Tinks18/ROckPaperScissors/blob/main/assets/images/Information-min%20.jpg)
 
 
 
