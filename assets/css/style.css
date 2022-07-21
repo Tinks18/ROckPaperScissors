@@ -20,12 +20,7 @@ h2 {
 .container {
     text-align: center;
   }
-  .container h2 {
-   
-    padding: 1 rem;
-    border-radius: var(--radius);
-    margin-bottom: 1 rem;
-  }
+  
 
   
   

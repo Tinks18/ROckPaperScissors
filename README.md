@@ -42,12 +42,12 @@ Due to the age group of the users, it is assumed that most users will be viewing
 
 In order to achieve the desired user & business goals, the following features will be included in this release:
 
-- Header , to navigate to various sections of the page
+- Naav-bar , to name the  game and provide a reset function on the page
 - Pictures section for displaying the various choices. 
 - Buttons to click to make choices
 - Information, as to who won the game
 - Score on each attempt of the game
-- Links to affiliate social media pages
+
 
 ### **Structure** 
 
@@ -68,15 +68,15 @@ I chose a colour palette based around blue and  black  as these colours remind m
 
 ## The site structure:
 
-The site has three buttons  on the landing page that open different choices on the same page that can also be seen by scrolling down.
+The site has three sections on the landing page that respond to different choices on the same page that can also be seen by scrolling down.
 The sections are:
 - Navigation Bar with Game title
-- Pictures in tabs of Choices -Rock Paper Scissors
+- Pictures in depicting Choices -Rock Paper Scissors
 - Buttons with Choices - Rock Paper Scissors
-- Computer Choice
-- User Choice
-- Result
-- Score
+- Displays Computer Choice
+- Displays User Choice
+- Displays Result
+- Displays Score
 
 
 ## Features 
@@ -128,10 +128,10 @@ The sections are:
   - This page will allow the user to get Information. 
   - The user will be able see :
   - The Computer choice. 
-  - The User choice. 
+  - The Player choice. 
   - The Result section displays the result of the game.
-  - The Score section gives the user scores based the game out come.
-  - 1000 points for a win ,500 for a Draw, and 0 points for Loss.
+  - The Score section gives the Player scores based on the game out come.
+  - Player gets 1000 points for a win ,500 for a Draw, and 0 points for Loss.
   
     ![Information](https://github.com/Tinks18/ROckPaperScissors/blob/main/assets/images/Information-min%20.jpg)
 
@@ -188,7 +188,7 @@ The interesting bugs or problems discovered during testing, some of which have n
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftinks18.github.io%2FYoga-project%2F)
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-tinks18-rockpaperscisso-1cwwltxug61.ws-eu54.gitpod.io%2F)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator)
 
