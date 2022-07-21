@@ -14,7 +14,7 @@
 4. Build a fanbase of users to make future interactive games, thus furthering the reach of the  author.
 
 
-  ![Responsice Mockup](https://github.com/Tinks18/Yoga-project/blob/main/docs/sconnections_mock-up.jpg)
+  ![Responsice Mockup](https://tinks18-rockpaperscisso-1cwwltxug61.ws-eu54.gitpod.io/)
 
 ## UX
 ---
