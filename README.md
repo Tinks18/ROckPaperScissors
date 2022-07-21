@@ -14,7 +14,7 @@
 4. Build a fanbase of users to make future interactive games, thus furthering the reach of the  author.
 
 
-  ![Responsice Mockup](https://github.com/Tinks18/ROckPaperScissors/blob/main/assets/images/Website-mockup.jpg)
+  ![Responsive Mockup](https://github.com/Tinks18/ROckPaperScissors/blob/main/assets/images/Website-mockup.jpg)
 
 ## UX
 ---
