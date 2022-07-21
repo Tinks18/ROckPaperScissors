@@ -110,7 +110,7 @@ The sections are:
 
   
 
-   ![Gallery]()
+   ![Pictures](https://github.com/Tinks18/ROckPaperScissors/blob/main/assets/images/Pictures.png)
 
 - __Click the button section__
 
@@ -118,7 +118,7 @@ The sections are:
   - The section also includes three buttons Rock Paper scissors indicating user choices.
   - This section also contains a reset button to reset the game when the user wants to start playing again fresh.
 
-    ![Buttons](https://github.com/Tinks18/Yoga-project/blob/main/docs/Meet-the-teacher.jpg)
+    ![Buttons](https://github.com/Tinks18/ROckPaperScissors/blob/main/assets/images/buttons-min.jpg)
 
 
 - __The Information Section__
@@ -151,6 +151,7 @@ Potential features to include:
 - Allowing only five attamepts of the game .
 - Information of new interactive games and website launches in the footer.
 - A banner showing different discounts the website offers for online games for sale.
+
 
 
 
@@ -241,7 +242,7 @@ I used code from the following resources:
 
 - [Image grid](https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/)
 
-- [games tutorial](https://www.freecodecamp.org/news/how-to-create-javascript-projects)
+- [games tutorial](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
 
 - [Visually hidden elements](https://www.w3.org/WAI/tutorials/forms/labels/)
 
@@ -249,8 +250,8 @@ I used code from the following resources:
  
 ### Content 
 
-
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
+- Pictures taken from <a href="https://www.vecteezy.com/free-vector/rock-paper-scissors">Rock Paper Scissors Vectors by Vecteezy</a>
+- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-rock-paper-scissors-game)
 - The icons in the  header footer were taken from [Font Awesome](https://fontawesome.com/)
 - The styling was taken from Bootstrap library
 
