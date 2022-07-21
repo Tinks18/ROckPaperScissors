@@ -1,15 +1,15 @@
 body{
-    background-color: rgb(60, 147, 103);
+    background-color: rgb(19, 19, 19);
 }
 
-h2 {
+h3 {
   text-transform: capitalize;
 }
 
 .container {
     text-align: center;
   }
-  .container h2 {
+  .container h3 {
     background: var(--clr-black);
     color: var(--clr-white);
     padding: 1rem;
@@ -17,7 +17,7 @@ h2 {
     margin-bottom: 2.5rem;
   }
 
-  .btn-hero {
+  /* .btn-hero {
     font-family: var(--ff-primary);
     text-transform: uppercase;
     background: grey;
@@ -36,4 +36,4 @@ h2 {
   .btn-hero:hover {
     color: var(--clr-white);
     background: var(--clr-black);
-  }
+  } */
