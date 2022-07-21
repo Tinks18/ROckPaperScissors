@@ -16,7 +16,7 @@ possibleChoices.forEach(possibleChoice => possibleChoice.addEventListener('click
   getResult();
   getScore();
 
-  // document.getElementById('clear').addEventListener('click',clear);
+  document.getElementById('clear').addEventListener('click',clear);
 }));
 
 function generateComputerChoice() {

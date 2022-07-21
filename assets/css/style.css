@@ -17,6 +17,21 @@ h3 {
     margin-bottom: 2.5rem;
   }
 
+  .links {
+    text-align: center;
+}
+
+.links>li {
+    display: inline;
+}
+
+.links i {
+    font-size: 150%;
+    margin: 1%;
+    padding: 1%;
+    color: #fff;
+
+}
   /* .btn-hero {
     font-family: var(--ff-primary);
     text-transform: uppercase;
