@@ -14,7 +14,7 @@
 4. Build a fanbase of users to make future interactive games, thus furthering the reach of the  author.
 
 
-  ![Responsice Mockup](https://github.com/Tinks18/ROckPaperScissors/blob/main/assets/images/Website-mockup-min.jpg)
+  ![Responsice Mockup](https://github.com/Tinks18/ROckPaperScissors/blob/main/assets/images/Website-mockup-min%20(1).jpg)
 
 ## UX
 ---
@@ -100,6 +100,7 @@ The sections are:
   - This section introduces the user to Rock Paper scissors game with an eye catching webpage to grab their attention
 
     ![Landing Page](https://github.com/Tinks18/ROckPaperScissors/blob/main/assets/images/landingpage.png)
+     ![Landing Page](https://github.com/Tinks18/ROckPaperScissors/blob/main/assets/images/landing-page-min.png)
 
 
 - __Pictures Section__
