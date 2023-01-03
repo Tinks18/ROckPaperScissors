@@ -60,6 +60,10 @@ Whilst building the website I felt that it should be simple and interactive and 
 
 I also decided to change my photos to seperate tabs as I felt it looked cleaner and I preferred this method of interaction, it also allowed for better responsiveness and the images looked better on larger screens. 
 
+Please find the wireframe here:
+[Visit the website here](https://wireframe.cc/dFwcjH)
+
+
 
 ### **Surface**
 
