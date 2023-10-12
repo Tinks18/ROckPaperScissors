@@ -216,7 +216,7 @@ The interesting bugs or problems discovered during testing, some of which have n
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://8000-tinks18-rockpaperscisso-1cwwltxug61.ws-eu54.gitpod.io/
+The live link can be found here - https://tinks18.github.io/ROckPaperScissors/
 
 ## Credits 
 
