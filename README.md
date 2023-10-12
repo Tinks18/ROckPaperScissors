@@ -1,7 +1,7 @@
 
 # playrockpaperscissors 
 
-[Visit the website here](http://cloudhead.me/ROckPaperScissors/)
+[Visit the website here](https://tinks18.github.io/ROckPaperScissors//)
 
    Playrockpaperscissors is a site that hopes to help keep people entertained and make adhoc decisions with the game. The site will be targeted towards game enthusiasts who are looking for a way to play the famous rock paperscissors g ame online with the computer and keep themselves entertained.Playrockpaperscissors will be useful for users to see exactly how many times they win against the computer and where they should be as to making a random decision based on the results. The page gives an overview about the game score.The page outlines the user and computer choices and who wins on each attempt.Playrockpaperscissors game can mean hours of fun for users of all ages and achieve  well being  and stress release goals.
    This website was made for educational purposes only.
